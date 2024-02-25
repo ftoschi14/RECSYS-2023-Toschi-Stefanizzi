@@ -1,0 +1,15 @@
+Cython
+h5py
+nltk
+nose
+numpy
+scikit-learn
+scikit-optimize
+scipy
+tqdm
+lightfm
+RISE
+torch
+jupyter-contrib-nbextensions
+tensorflow
+tables
